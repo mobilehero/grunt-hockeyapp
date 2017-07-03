@@ -1,7 +1,7 @@
 {
   "name": "@mobile/grunt-hockeyapp",
   "description": "Grunt plugin for managing apps via the hockeyapp rest api.",
-  "version": "0.0.5-0",
+  "version": "0.0.6-0",
   "homepage": "https://github.com/mobilehero/grunt-hockeyapp",
   "author": {
     "name": "brentonhouse",
@@ -44,6 +44,6 @@
   ],
   "dependencies": {
     "form-data": "^0.2.0",
-    "lodash": "^3.3.1"
+    "lodash": "^4.17.4"
   }
 }
